@@ -1,0 +1,5 @@
+com\example\appointmentscheduler\controller\AppointmentController.class
+com\example\appointmentscheduler\entity\Appointment.class
+com\example\appointmentscheduler\repository\AppointmentRepository.class
+com\example\appointmentscheduler\AppointmentSchedulerApplication.class
+com\example\appointmentscheduler\service\AppointmentService.class
